@@ -43,6 +43,8 @@ No external dependencies — this project only uses Python's built-in `turtle` m
 | ← | Move left |
 | → | Move right |
 
+![Snake Game Demo](demo.gif)
+
 ## What I Learned
 
 - Structuring a small game using OOP principles (classes, composition vs. inheritance)
