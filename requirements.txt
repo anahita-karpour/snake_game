@@ -1,0 +1,2 @@
+# This project has no external dependencies.
+# It only uses Python's built-in `turtle` module (Python 3.x standard library).
